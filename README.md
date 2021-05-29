@@ -1,16 +1,14 @@
-### Hi there 👋
+[![](https://komarev.com/ghpvc/?username=mishabhi&color=blue&label=Profile%20Views)](https://github.com/mishabhi)
+[![](https://img.shields.io/github/followers/mishabhi?label=GitHub%20Followers)](https://github.com/mishabhi)
 
-<!--
-**mishabhi/mishabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! 👋 I'm [Abhishek Mishra]
 
-Here are some ideas to get you started:
+I'm a Full Stack Web Application Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Github Stats
+
+![Abhishek Mishra's Github Stats](https://github-readme-stats.vercel.app/api?username=mishabhi&theme=dark)
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mishabhi/)
