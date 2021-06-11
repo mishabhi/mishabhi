@@ -7,7 +7,7 @@ I'm a Full Stack Web Application Developer.
 
 ## ⚡ Github Stats
 
-![Abhishek Mishra's Github Stats](https://github-readme-stats.vercel.app/api?username=mishabhi&theme=dark)
+![Abhishek Mishra's Github Stats](https://github-readme-stats.vercel.app/api?username=mishabhi&theme=dark&include_all_commits=true)
 
 ### Let's Connect 🔗
 
