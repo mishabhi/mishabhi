@@ -1,7 +1,7 @@
 [![](https://komarev.com/ghpvc/?username=mishabhi&color=blue&label=Profile%20Visitors)](https://github.com/mishabhi)
 [![](https://img.shields.io/github/followers/mishabhi?label=GitHub%20Followers)](https://github.com/mishabhi)
 
-# Hi! 👋 I'm [Abhishek Mishra]
+# Hi! 👋 I'm Abhishek Mishra
 
 I'm a Full Stack Web Application Developer.
 
