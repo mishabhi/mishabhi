@@ -3,7 +3,7 @@
 
 # Hi! 👋 I'm Abhishek Mishra
 
-I'm a Full Stack Web Application Developer.
+I'm a backend oriented full stack application Developer. Developing complex products is my profession.
 
 ## ⚡ Abhishek's Github Stats
 
