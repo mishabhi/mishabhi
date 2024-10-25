@@ -3,7 +3,7 @@
 
 # Hi! 👋 I'm Abhishek Mishra
 
-I'm a backend oriented full stack application Developer. Developing complex products is my profession.
+I'm a backend oriented full stack application Developer. I am proficient at developing complex products with utmost quality.
 
 ## ⚡ Abhishek's Github Stats
 
